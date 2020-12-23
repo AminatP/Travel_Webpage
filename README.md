@@ -1,7 +1,7 @@
 # Travel_Webpage
 Mock up webpage using HTML/CSS/Bootstrap
 
-![](../master/img/main.jpg)
+![](../master/images/main.jpg)
 
 
-![](../master/img/form.jpg)
+![](../master/images/form.jpg)
